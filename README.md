@@ -5,7 +5,10 @@
 #### Programa usado para programar: Sublime Text 3
 ###### Plugins Instalados
 
-https://packagecontrol.io/installation
+Package Control - https://packagecontrol.io/installation
+
+Acessar console - CTRL + "
+Acessar barra de instalação - SHIFT + CTRL + P - Digitar Install
 
 ```
 Emmet
