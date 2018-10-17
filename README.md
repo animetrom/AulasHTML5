@@ -4,6 +4,9 @@
   
 #### Programa usado para programar: Sublime Text 3
 ###### Plugins Instalados
+
+https://packagecontrol.io/installation
+
 ```
 Emmet
 A File Icon
