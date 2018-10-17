@@ -3,13 +3,13 @@
   
   
 #### Programa usado para programar: Sublime Text 3
-###### Plugins Instalados
 
 Package Control - https://packagecontrol.io/installation
 
 Acessar console - CTRL + "
 Acessar barra de instalação - SHIFT + CTRL + P - Digitar Install
 
+###### Plugins Instalados
 ```
 Emmet
 A File Icon
