@@ -9,7 +9,7 @@ Package Control - https://packagecontrol.io/installation
 Acessar console - CTRL + "  
 Acessar barra de instalação - SHIFT + CTRL + P - Digitar "Install"
 
-###### Plugins Instalados
+###### Plugins usados
 ```
 Emmet
 A File Icon
