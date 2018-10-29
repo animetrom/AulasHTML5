@@ -1,0 +1,100 @@
+html, body {
+	background: url(assets/imagens/fundo4.jpg);
+	height: 100%;
+	color: #fff;
+}
+
+nav.navbar-transparente {
+	padding: 0px 0px; /* MARGEM INTERNA */
+	background: #071013;
+	margin: 0px;
+	padding-right: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color:#9bf0e1;
+}
+
+h6 {
+	font-size: 20px;
+
+}
+.centralizar{
+	text-align: center;
+
+}
+.centralizar2{
+	text-align: center; 
+}
+
+.divisor {
+	height: 10px
+}
+
+.imagem {
+
+	border:4px solid #999;
+	background:transparent url(/imagem.jpg);
+	}
+
+.conteudo {
+	background:#fff;
+	color: #071013;
+	padding: 10px 0px;
+}
+.coluna8-uni{
+
+	background: #071013;
+	padding: 15px 15px;
+
+}
+
+.mapa{
+	padding-left: 15px;
+}
+.coluna4-uni{
+
+	background: #071013;
+	padding: 15px 19px;
+	
+}
+.formata{
+	list-style: none;
+}
+
+.galeria {
+	border: 1px solid #fff;
+	background: #000;
+
+}
+
+#espaco {
+	height: 35px;
+}
+
+.galcoluna {
+	padding: 10px 10px;
+	background: red;
+}
+
+.galeria-transparente {
+	border: 1px solid #fff;
+
+}
+.coluna4-galeria {
+	background: #000;
+	padding-top:8px;
+	padding-bottom:8px;
+}
+.coluna-espaco {
+	background:  #071013;
+}
+
+.coluna-tabacaria {
+	border: 1px solid #fff;
+	background: #000;
+}
